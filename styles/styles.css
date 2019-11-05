@@ -35,10 +35,11 @@ h3 {
 }
 h4 {
   font-family: Arial, Verdana, sans-serif;
+  color: #00a3cc;
 }
 section {
   float: left;
-  width: 50%;
+  width: 49%;
   margin-left: 100px;
   margin-right: 0px;
 }
